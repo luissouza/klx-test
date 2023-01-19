@@ -5,7 +5,7 @@ spring:
     max-in-memory-size=100MB:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://klx-test-dbpostgresql-1:5432/mydb
+    url: jdbc:postgresql://klx-test-dbpostgresql-1:5432/dbtest
     username: postgres
     password: password
   jpa:

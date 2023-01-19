@@ -55,6 +55,7 @@
      ```
 
 4. Consume the api: /api/v1/validate/json to show all flight records in history
+
    Example: POST http://localhost:8080/api/v1/validate/json
 
    #### Request Body:
